@@ -7,7 +7,7 @@ const bad = (m) => { console.error('FAIL', m); fail++; };
 for (const p of pages) {
   const html = readFileSync(p, 'utf8');
   if (!/name="robots" content="noindex/.test(html)) bad(`${p}: missing noindex`);
-  if (p !== '404.html' && !html.includes('not the official website')) bad(`${p}: missing concept label`);
+  if (p !== '404.html' && !/not the official website/i.test(html)) bad(`${p}: missing concept label`);
   if (/<form[^>]*action=/.test(html)) bad(`${p}: form has an action`);
   for (const [, href] of html.matchAll(/(?:href|src)="([^"#:]+?)(?:#[^"]*)?"/g)) {
     if (href.startsWith('/') || href === '') continue;
