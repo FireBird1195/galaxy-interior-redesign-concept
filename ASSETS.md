@@ -12,6 +12,7 @@
 | Kitchens hero; gallery | `assets/images/banner4.jpg` | 1200 × 682 |
 | Gallery and service cards | `images/gallery/01–04, 06–10.jpg` | 368 px wide |
 | Walkthrough videos | `Videos/07, 02, 04, 06.mp4` | vertical, 10–17 s |
+| Footer social links | Facebook, Instagram, LinkedIn URLs from galaxyinterior.in | Published by the studio |
 | Client quotes (Govind Kabra, Prasoon Ghosh, Kevin L) | galaxyinterior.in home page, verbatim (one capital letter normalised) | Published by the studio |
 
 **Deliberately not used:** `banner1–3.jpg` (glass-walled restaurant, white-brick dining room, barn-door kitchen) — they look like stock or third-party images, not Galaxy projects. `gallery/05.jpg` — carries a small third-party watermark. `Videos/01, 05.mp4` — would not load; `03.mp4` not needed.
@@ -22,8 +23,8 @@
 
 | Item | Source | Status |
 |---|---|---|
-| Favicon, L-kitchen plan drawing | Original, drawn for this concept | Own work |
-| Fonts: DM Serif Display, Inter | Google Fonts | SIL OFL 1.1 |
+| Favicon, orbit-and-star mark, L-kitchen plan drawing | Original, drawn for this concept from Galaxy's logo motifs | Own work |
+| Fonts: Instrument Serif, Manrope | Google Fonts | SIL OFL 1.1 |
 | Since 2007; Nagpur; interior and exterior design, architecture, landscape, turnkey | galaxyinterior.in/about (Nov 2026) | Published by the studio |
 | 16 interior experts | galaxyinterior.in home and about | Studio's own claim |
 | Three-step process; 2D/3D design and walkthrough video; materials to budget; "no % based increasing fees or commissions" | galaxyinterior.in home (Nov 2026) | Published by the studio — wording to confirm |

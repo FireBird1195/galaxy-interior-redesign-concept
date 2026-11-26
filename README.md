@@ -4,10 +4,10 @@ An independent, speculative redesign of [galaxyinterior.in](https://www.galaxyin
 
 Two pages:
 
-Built after studying Design Cafe, Studio McGee and Livspace Nagpur: photography leads, the enquiry is reachable from the first screen (and a call / WhatsApp / estimate bar on phones), a filterable project gallery with a photo viewer, the showroom card, and FAQs.
+Direction "Galaxy, after dark": Galaxy's own brand world (charcoal, the logo's gold gradient and orbit ring, the orange action colour) rebuilt with layout techniques studied on award-winning studio sites (Studio Dado, Studio X, LPAS, TARQ, BAMO, Storey): full-bleed hero with giant type, linked-keyword statement, room index with hover previews, asymmetric featured rooms, a walkthrough phone that grows on scroll, tall service panels, giant footer wordmark and a floating bottom navigation.
 
-- `index.html` — homepage: hero, project gallery with filters and lightbox, walkthrough videos, three steps, why Galaxy (no percentage fees), services, client quotes, showroom and estimate form, FAQ.
-- `kitchens/index.html` — modular kitchens: L-shaped layout explainer, finished kitchens, what's included.
+- `index.html` — homepage.
+- `kitchens/index.html` — modular kitchens: L-shaped layout, recent kitchens, what's included.
 
 ## Run locally
 
@@ -19,7 +19,7 @@ node scripts/verify.mjs          # noindex, concept label, local links and ancho
 
 ## Stack
 
-Plain HTML, CSS and one dependency-free script. No build step, no backend, no tracking. Relative links, so it works from a GitHub Pages sub-path (`/galaxy-interior-redesign-concept/`). Fonts: DM Serif Display and Inter (Google Fonts; self-host for production).
+Plain HTML, CSS and one dependency-free script. No build step, no backend, no tracking. Relative links, so it works from a GitHub Pages sub-path (`/galaxy-interior-redesign-concept/`). Fonts: Instrument Serif and Manrope (Google Fonts; self-host for production).
 
 Photographs, videos and the logo are **displayed from galaxyinterior.in, not stored here** (see `ASSETS.md`). If one cannot load, its frame shows a labelled placeholder or removes itself.
 
