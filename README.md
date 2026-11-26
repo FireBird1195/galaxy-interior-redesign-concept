@@ -4,8 +4,10 @@ An independent, speculative redesign of [galaxyinterior.in](https://www.galaxyin
 
 Two pages:
 
-- `index.html` — homepage: "See your home before it's built" — rooms register (kitchens, bedrooms and wardrobes, living rooms, workspaces), walkthrough videos, how fees work (no percentage-based fees), the three-step process, services by need, studio facts, free-estimate form.
-- `kitchens/index.html` — modular kitchens: why the L-shaped layout works (original plan drawing), finished kitchens, what a kitchen project covers.
+Direction: "the sample book on the counter" — each piece of work shown with the finishes visible in it, in the words customers use.
+
+- `index.html` — homepage: hero walkthrough video, six pieces (TV unit, bed, wardrobe, kitchen, sofa, reception counter) with sampled finish swatches, a worked example of how percentage fees grow, four walkthrough films, the three steps, visit and free-estimate form.
+- `kitchens/index.html` — modular kitchens: L-shaped plan drawing, three finished kitchens with swatches, what a kitchen project covers.
 
 ## Run locally
 
@@ -17,7 +19,7 @@ node scripts/verify.mjs          # noindex, concept label, local links and ancho
 
 ## Stack
 
-Plain HTML, CSS and one dependency-free script. No build step, no backend, no tracking. Relative links, so it works from a GitHub Pages sub-path (`/galaxy-interior-redesign-concept/`). Fonts: Instrument Serif and Manrope (Google Fonts; self-host for production).
+Plain HTML, CSS and one dependency-free script. No build step, no backend, no tracking. Relative links, so it works from a GitHub Pages sub-path (`/galaxy-interior-redesign-concept/`). Font: Archivo (Google Fonts; self-host for production).
 
 Photographs, videos and the logo are **displayed from galaxyinterior.in, not stored here** (see `ASSETS.md`). If one cannot load, its frame shows a labelled placeholder or removes itself.
 
@@ -27,6 +29,6 @@ Validates name and an Indian mobile number, offers property type, rooms and timi
 
 ## Publishing
 
-- Galaxy Interior has given permission to show its logo, photographs and videos in this concept (see `ASSETS.md`).
+- Get Galaxy Interior's written permission to show its logo, photographs and videos in this concept, and keep it on file (see `ASSETS.md`).
 - Every page carries `noindex, nofollow`; `robots.txt` disallows crawling. The site stays labelled as an independent concept.
-- Deploy: Settings → Pages → Source: Deploy from a branch → `main` / `(root)`. No build step is needed.
+- Deploy with the manual workflow `.github/workflows/pages.yml` (Settings → Pages → Source: GitHub Actions, then Actions → Run workflow).

@@ -2,21 +2,24 @@
 
 ## Logo, photographs and videos
 
-**Permission: obtained.** Galaxy Interior gave permission by phone (obtained by Tejas, 26 November 2026) to show its logo, photographs and walkthrough videos in this concept. A short written confirmation (WhatsApp is fine) is worth keeping on file. Files are displayed directly from `galaxyinterior.in`; none is stored in this repository.
+**Permission: NOT YET OBTAINED.** Before this concept is pushed public or sent, get Galaxy Interior's written permission to show its logo, photographs and walkthrough videos, and keep it on file (as done for NEST Architects and Atharva Infrastructures). Files are displayed directly from `galaxyinterior.in`; none is stored in this repository.
 
 | Used for | File | Size |
 |---|---|---|
 | Header logo | `images/Logo.png` | 179 × 53 |
-| Home hero; rooms › living | `images/p6.jpg` | 1080 × 1016 |
-| Studio section | `images/p2.jpg` | 712 × 1280 |
-| Kitchens hero; kitchen gallery | `assets/images/banner4.jpg` | 1200 × 682 |
-| Rooms › kitchens; kitchen gallery | `images/gallery/04, 06, 07.jpg` | 368 px wide |
-| Rooms › bedrooms & wardrobes | `images/gallery/03, 01, 10.jpg` | 368 px wide |
-| Rooms › living | `images/gallery/02, 09.jpg` | 368 px wide |
-| Rooms › workspaces | `images/gallery/08.jpg` | 368 px wide |
-| Walkthrough reels | `Videos/07, 02, 04, 06, 03.mp4` | vertical, 10–19 s |
+| Home: TV unit with back panelling | `images/p6.jpg` | 1080 × 1016 |
+| Home: bed with back panelling | `images/p2.jpg` | 712 × 1280 |
+| Home: wardrobe wall with study desk | `images/gallery/01.jpg` | 368 px wide |
+| Home: modular kitchen; kitchens page | `images/gallery/04.jpg` | 368 px wide |
+| Home: sofa with centre table | `images/gallery/09.jpg` | 368 px wide |
+| Home: reception counter | `images/gallery/08.jpg` | 368 px wide |
+| Kitchens page | `assets/images/banner4.jpg`, `images/gallery/06.jpg`, `07.jpg` | 1200 / 368 px wide |
+| Hero walkthrough | `Videos/07.mp4` | 720 × 1280, 10 s |
+| Walkthrough strip | `Videos/02, 04, 06, 03.mp4` | vertical, 12–19 s |
 
-**Deliberately not used:** `banner1–3.jpg` (glass-walled restaurant, white-brick dining room, barn-door kitchen) — they look like stock or third-party images, not Galaxy projects. `gallery/05.jpg` — carries a small third-party watermark. `Videos/01, 05.mp4` — would not load.
+Finish swatches are colours sampled from each photograph (6 × 6 px downsample in the browser); their names describe what the photo shows and are to be confirmed against the actual materials.
+
+**Deliberately not used:** `banner1–3.jpg` (glass-walled restaurant, white-brick dining room, barn-door kitchen) — they look like stock or third-party images, not Galaxy projects. `gallery/02, 03, 05, 10.jpg` — not needed in this direction (05 also carries a small third-party watermark). `Videos/01, 05.mp4` — would not load.
 
 **To confirm with the studio:** (1) that every photo and video above shows Galaxy's own work; (2) room descriptions in alt text and captions; (3) high-resolution originals — the gallery files are only 368 px wide, which limits a production site; (4) homeowner consent where relevant.
 
@@ -24,8 +27,9 @@
 
 | Item | Source | Status |
 |---|---|---|
-| Orbit and star motif, favicon, L-kitchen plan drawing | Original, drawn for this concept from the logo's ring and star | Own work |
-| Fonts: Instrument Serif, Manrope | Google Fonts | SIL OFL 1.1 |
+| Favicon, L-kitchen plan drawing | Original, drawn for this concept | Own work |
+| Fee example (₹8 lakh → ₹11 lakh at 10%) | Invented illustration, labelled on the page as an example and not a quote | Own work |
+| Font: Archivo | Google Fonts | SIL OFL 1.1 |
 | Since 2007; Nagpur; interior and exterior design, architecture, landscape, turnkey | galaxyinterior.in/about (Nov 2026) | Published by the studio |
 | 16 interior experts | galaxyinterior.in home and about | Studio's own claim |
 | Three-step process; 2D/3D design and walkthrough video; materials to budget; "no % based increasing fees or commissions" | galaxyinterior.in home (Nov 2026) | Published by the studio — wording to confirm |
